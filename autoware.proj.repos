@@ -3,11 +3,11 @@ repositories:
   autoware/AutowareArchitectureProposal.iv:
     type: git
     url: git@github.com:tier4/AutowareArchitectureProposal.iv.git
-    version: v0.9.1 
+    version: feature/ndt_opencl
   autoware/launcher:
     type: git
     url: git@github.com:tier4/autoware_launcher.iv.universe.git
-    version: v0.9.1 
+    version: feature/ndt_opencl
   # description
   description/sensor/sensor_description:
     type: git
